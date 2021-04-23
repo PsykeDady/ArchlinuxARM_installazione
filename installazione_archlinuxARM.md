@@ -155,7 +155,7 @@ e diamo il comando (mi raccomando il punto iniziale):
 
 ```bash 
 cd boot
-sudo ./mksrc
+sudo ./mkscr
 ```
 
 
